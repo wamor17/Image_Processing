@@ -5,18 +5,6 @@
 using namespace std;
 using namespace cv;
 
-/* DIFERENTES COMBINACIONES DE COLORES*/
-/*			R G B
-Negro		0 0 0
-Azul		0 0 1
-Verde		0 1 0
-Cyan		0 1 1
-Rojo		1 0 0
-Amarillo 	1 0 1
-Rosa		1 1 0
-Blanco		1 1 1
-*/
-
 int main(int argc, char** argv){
 	
   Mat image(512, 512, CV_8UC3, Scalar(0,0,0));
