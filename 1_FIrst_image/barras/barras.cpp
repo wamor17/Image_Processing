@@ -5,7 +5,7 @@
 using namespace std;
 using namespace cv;
 
-/* DIFERENTES COMBINACIONES DE COLORES*/
+/* DIFERENTES COMBINACIONES DE COLORES CON UN PROFUNDIDAD DE COLOR DE 1 BIT*/
 /*			R G B
 Negro		0 0 0
 Azul		0 0 1
